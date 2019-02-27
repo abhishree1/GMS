@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Abhishree Khangar
+Build-Jdk: 11.0.2
+Implementation-Title: Engineer
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.engineer
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Engineer
+Created-By: Maven Integration for Eclipse
+
