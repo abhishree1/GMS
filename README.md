@@ -1,3 +1,3 @@
 # GMS
-io.workcreate is main.
+io.workcreatedemo is main.
 Don't open workcreate.
